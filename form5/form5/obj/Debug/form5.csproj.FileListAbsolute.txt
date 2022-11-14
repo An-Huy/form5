@@ -1,0 +1,13 @@
+C:\Users\huynda\Documents\BTCS\form5\form5\bin\Debug\form5.exe.config
+C:\Users\huynda\Documents\BTCS\form5\form5\bin\Debug\form5.exe
+C:\Users\huynda\Documents\BTCS\form5\form5\bin\Debug\form5.pdb
+C:\Users\huynda\Documents\BTCS\form5\form5\obj\Debug\form5.csproj.AssemblyReference.cache
+C:\Users\huynda\Documents\BTCS\form5\form5\obj\Debug\form5.csproj.SuggestedBindingRedirects.cache
+C:\Users\huynda\Documents\BTCS\form5\form5\obj\Debug\form5.Form1.resources
+C:\Users\huynda\Documents\BTCS\form5\form5\obj\Debug\form5.Properties.Resources.resources
+C:\Users\huynda\Documents\BTCS\form5\form5\obj\Debug\form5.csproj.GenerateResource.cache
+C:\Users\huynda\Documents\BTCS\form5\form5\obj\Debug\form5.csproj.CoreCompileInputs.cache
+C:\Users\huynda\Documents\BTCS\form5\form5\obj\Debug\form5.exe
+C:\Users\huynda\Documents\BTCS\form5\form5\obj\Debug\form5.pdb
+C:\Users\huynda\Documents\BTCS\form5\form5\bin\Debug\Database1.mdf
+C:\Users\huynda\Documents\BTCS\form5\form5\bin\Debug\Database1_log.ldf

@@ -13,7 +13,7 @@ namespace form5
         SqlConnection sqlConnection;
         public void Connect()
         {
-            sqlConnection = new SqlConnection("");
+            sqlConnection = new SqlConnection("Data Source=DESKTOP-NEV56V8\\MSSQLSERVER01;Initial Catalog=QuanLyGiaoTrinh;Integrated Security=True");
             if (sqlConnection.State != ConnectionState.Open)
             {
                 sqlConnection.Open();
